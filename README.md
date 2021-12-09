@@ -41,7 +41,7 @@ To install any missing packages:
 Modules covid_data_handler and covid_news_handling are not directly part of the user interface and should not be edited by
 any except those whom wish to build upon the framework provided by the package.
 
-The module covid_dashboard.py will run when executed in any python environment.
+The module main.py will run the dashboard when executed in any python environment.
 
 config.json is designed for user input. Any of the entries may be edited to customise the users experiance.
 
@@ -131,7 +131,7 @@ covid_news_handling.py:
 			
 		-output: a limited selection of dictionaries sent to the config
 
-covid_dashboard.py:
+main.py:
 	External Modules:
 		-json
 		-sched
