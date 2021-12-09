@@ -1,0 +1,76 @@
+{
+	"data": 
+	[
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 7019,
+			"newCasesByPublishDate": null
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6951,
+			"newCasesByPublishDate": 8786
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6883,
+			"newCasesByPublishDate": 30405
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6801,
+			"newCasesByPublishDate": 37505
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6515,
+			"newCasesByPublishDate": 29117
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6386,
+			"newCasesByPublishDate": 28873
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6405,
+			"newCasesByPublishDate": 33686
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6366,
+			"newCasesByPublishDate": 37685
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6299,
+			"newCasesByPublishDate": 43028
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 6099,
+			"newCasesByPublishDate": 43586
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 5938,
+			"newCasesByPublishDate": 48150
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 5623,
+			"newCasesByPublishDate": 36741
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": null,
+			"hospitalCases": 5385,
+			"newCasesByPublishDate": 30997
+		},
+		{
+			"cumDailyNsoDeathsByDeathDate": 141544,
+			"hospitalCases": 5363,
+			"newCasesByPublishDate": 35851
+		}
+
+	]
+}

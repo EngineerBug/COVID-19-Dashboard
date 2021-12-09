@@ -1,0 +1,156 @@
+INFO 2021-12-08 14:50:15,028 - covid_news_handling.news_api_request: Fetching news API
+INFO 2021-12-08 15:01:19,738 - covid_news_handling.news_api_request: Fetching news API
+INFO 2021-12-08 17:04:32,129 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:04:32,706 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:06:59,447 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:06:59,992 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:07:00,554 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:07:00,555 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:31:02,552 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:31:02,799 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:31:03,106 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:31:03,107 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:31:24,392 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:31:24,610 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:31:24,798 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:31:24,799 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:39:43,542 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:39:44,127 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:39:44,612 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:39:44,613 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:40:23,562 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:40:23,777 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:40:23,962 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:40:23,962 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:46:29,621 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:46:29,947 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 17:46:30,500 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:46:30,500 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 17:46:30,500 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 18:00:20,087 -  * Restarting with stat
+WARNING 2021-12-08 18:00:20,543 -  * Debugger is active!
+INFO 2021-12-08 18:00:20,548 -  * Debugger PIN: 659-825-887
+INFO 2021-12-08 18:00:20,725 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2021-12-08 18:01:28,515 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:01:28,524 - 127.0.0.1 - - [08/Dec/2021 18:01:28] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-08 18:01:28,829 - 127.0.0.1 - - [08/Dec/2021 18:01:28] "GET /static/images/Nurgle.png HTTP/1.1" 200 -
+INFO 2021-12-08 18:01:55,650 -  * Restarting with stat
+WARNING 2021-12-08 18:01:56,086 -  * Debugger is active!
+INFO 2021-12-08 18:01:56,092 -  * Debugger PIN: 659-825-887
+INFO 2021-12-08 18:01:56,247 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2021-12-08 18:02:02,824 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:02:02,832 - 127.0.0.1 - - [08/Dec/2021 18:02:02] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-08 18:02:03,132 - 127.0.0.1 - - [08/Dec/2021 18:02:03] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:02:15,681 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:02:15,683 - 127.0.0.1 - - [08/Dec/2021 18:02:15] "GET /index?update=18%3A03&two=Final+Test%3F&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1" 200 -
+INFO 2021-12-08 18:02:15,704 - 127.0.0.1 - - [08/Dec/2021 18:02:15] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:03:15,756 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:03:15,756 - covid_data_handling.schedule_covid_updates: Calculating seconds
+INFO 2021-12-08 18:03:15,759 - covid_dashboard.execute_update: Executing scheduled update
+INFO 2021-12-08 18:03:15,759 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 18:03:16,309 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 18:03:16,884 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 18:03:16,909 - 127.0.0.1 - - [08/Dec/2021 18:03:16] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+INFO 2021-12-08 18:03:16,942 - 127.0.0.1 - - [08/Dec/2021 18:03:16] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2021-12-08 18:03:16,943 - 127.0.0.1 - - [08/Dec/2021 18:03:16] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2021-12-08 18:03:16,949 - 127.0.0.1 - - [08/Dec/2021 18:03:16] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2021-12-08 18:03:16,986 - 127.0.0.1 - - [08/Dec/2021 18:03:16] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO 2021-12-08 18:03:17,000 - 127.0.0.1 - - [08/Dec/2021 18:03:17] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2021-12-08 18:03:39,502 -  * Detected change in 'C:\\Users\\halob\\OneDrive\\Documents\\homework\\Programming\\Term1\\covid_dashboard.py', reloading
+INFO 2021-12-08 18:03:39,538 -  * Restarting with stat
+WARNING 2021-12-08 18:03:39,991 -  * Debugger is active!
+INFO 2021-12-08 18:03:39,997 -  * Debugger PIN: 659-825-887
+INFO 2021-12-08 18:03:40,152 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2021-12-08 18:03:44,616 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:03:44,616 - covid_data_handling.schedule_covid_updates: Calculating seconds
+INFO 2021-12-08 18:03:44,618 - covid_dashboard.execute_update: Executing scheduled update
+INFO 2021-12-08 18:03:44,618 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 18:03:44,862 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 18:03:45,092 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 18:03:45,092 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 18:03:45,092 - covid_news_handling.news_api_request: Fetching news API
+INFO 2021-12-08 18:03:45,382 - covid_dashboard.update_news: Writing news data to the config
+INFO 2021-12-08 18:03:45,393 - 127.0.0.1 - - [08/Dec/2021 18:03:45] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-08 18:03:45,685 - 127.0.0.1 - - [08/Dec/2021 18:03:45] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:03:51,201 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:03:51,201 - covid_data_handling.schedule_covid_updates: Calculating seconds
+INFO 2021-12-08 18:03:51,201 - covid_dashboard.execute_update: Executing scheduled update
+INFO 2021-12-08 18:03:51,201 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 18:03:51,412 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 18:03:51,601 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 18:03:51,601 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 18:03:51,602 - covid_news_handling.news_api_request: Fetching news API
+INFO 2021-12-08 18:03:51,783 - covid_dashboard.update_news: Writing news data to the config
+INFO 2021-12-08 18:03:51,785 - 127.0.0.1 - - [08/Dec/2021 18:03:51] "GET /index?update_item=Final+Test%3F HTTP/1.1" 200 -
+INFO 2021-12-08 18:03:51,810 - 127.0.0.1 - - [08/Dec/2021 18:03:51] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:04:04,219 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:04:04,221 - 127.0.0.1 - - [08/Dec/2021 18:04:04] "GET /index?update=18%3A04&two=Final+Test%3F&covid-data=covid-data HTTP/1.1" 200 -
+INFO 2021-12-08 18:04:04,260 - 127.0.0.1 - - [08/Dec/2021 18:04:04] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:05:04,301 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:05:04,301 - covid_data_handling.schedule_covid_updates: Calculating seconds
+INFO 2021-12-08 18:05:04,303 - 127.0.0.1 - - [08/Dec/2021 18:05:04] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-08 18:05:04,341 - 127.0.0.1 - - [08/Dec/2021 18:05:04] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:06:04,374 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:06:04,374 - covid_data_handling.schedule_covid_updates: Calculating seconds
+INFO 2021-12-08 18:06:04,376 - 127.0.0.1 - - [08/Dec/2021 18:06:04] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-08 18:06:04,394 - 127.0.0.1 - - [08/Dec/2021 18:06:04] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:06:14,807 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:06:14,807 - covid_data_handling.schedule_covid_updates: Calculating seconds
+INFO 2021-12-08 18:06:14,809 - 127.0.0.1 - - [08/Dec/2021 18:06:14] "GET /index?update_item=Final+Test%3F HTTP/1.1" 200 -
+INFO 2021-12-08 18:06:14,845 - 127.0.0.1 - - [08/Dec/2021 18:06:14] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:06:24,991 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:06:24,992 - 127.0.0.1 - - [08/Dec/2021 18:06:24] "GET /index?update=18%3A07&two=Final+Test%3F&covid-data=covid-data HTTP/1.1" 200 -
+INFO 2021-12-08 18:06:25,035 - 127.0.0.1 - - [08/Dec/2021 18:06:25] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:07:25,076 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:07:25,076 - covid_data_handling.schedule_covid_updates: Calculating seconds
+INFO 2021-12-08 18:07:25,076 - covid_dashboard.execute_update: Executing scheduled update
+INFO 2021-12-08 18:07:25,076 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 18:07:25,446 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-08 18:07:25,881 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 18:07:25,881 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-08 18:07:25,883 - 127.0.0.1 - - [08/Dec/2021 18:07:25] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-08 18:07:25,915 - 127.0.0.1 - - [08/Dec/2021 18:07:25] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:08:25,950 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:08:25,952 - 127.0.0.1 - - [08/Dec/2021 18:08:25] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-08 18:08:25,973 - 127.0.0.1 - - [08/Dec/2021 18:08:25] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-08 18:09:25,995 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-08 18:09:25,997 - 127.0.0.1 - - [08/Dec/2021 18:09:25] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-08 18:09:26,014 - 127.0.0.1 - - [08/Dec/2021 18:09:26] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-09 12:05:06,276 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-09 12:05:06,663 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-09 12:05:07,959 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-09 12:05:07,960 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-09 12:05:27,054 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-09 12:05:27,291 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-09 12:05:27,499 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-09 12:05:27,499 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-09 12:05:27,500 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-09 12:11:20,108 -  * Restarting with stat
+WARNING 2021-12-09 12:11:20,581 -  * Debugger is active!
+INFO 2021-12-09 12:11:20,587 -  * Debugger PIN: 659-825-887
+INFO 2021-12-09 12:11:20,799 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2021-12-09 12:11:25,390 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-09 12:11:25,413 - 127.0.0.1 - - [09/Dec/2021 12:11:25] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-09 12:11:25,750 - 127.0.0.1 - - [09/Dec/2021 12:11:25] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-09 12:11:25,778 - 127.0.0.1 - - [09/Dec/2021 12:11:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2021-12-09 12:11:33,078 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-09 12:11:33,080 - 127.0.0.1 - - [09/Dec/2021 12:11:33] "GET /index?update=12%3A12&two=Test&covid-data=covid-data HTTP/1.1" 200 -
+INFO 2021-12-09 12:11:33,102 - 127.0.0.1 - - [09/Dec/2021 12:11:33] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-09 12:12:33,140 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-09 12:12:33,140 - covid_data_handling.schedule_covid_updates: Calculating seconds
+INFO 2021-12-09 12:12:33,142 - covid_dashboard.execute_update: Executing scheduled update
+INFO 2021-12-09 12:12:33,143 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-09 12:12:33,638 - covid_data_handling.covid_api_request: Fetching Covid API
+INFO 2021-12-09 12:12:34,300 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-09 12:12:34,300 - covid_data_handling.process_csv_data: Calculating statistics
+INFO 2021-12-09 12:12:34,303 - 127.0.0.1 - - [09/Dec/2021 12:12:34] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-09 12:12:34,328 - 127.0.0.1 - - [09/Dec/2021 12:12:34] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-09 12:13:34,367 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-09 12:13:34,370 - 127.0.0.1 - - [09/Dec/2021 12:13:34] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-09 12:13:34,394 - 127.0.0.1 - - [09/Dec/2021 12:13:34] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-09 12:14:34,417 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-09 12:14:34,419 - 127.0.0.1 - - [09/Dec/2021 12:14:34] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-09 12:14:34,440 - 127.0.0.1 - - [09/Dec/2021 12:14:34] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
+INFO 2021-12-09 12:15:34,460 - covid_dashboard.index: Rendering dashboard
+INFO 2021-12-09 12:15:34,464 - 127.0.0.1 - - [09/Dec/2021 12:15:34] "GET /index HTTP/1.1" 200 -
+INFO 2021-12-09 12:15:34,487 - 127.0.0.1 - - [09/Dec/2021 12:15:34] "[36mGET /static/images/Nurgle.png HTTP/1.1[0m" 304 -
